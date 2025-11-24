@@ -19,7 +19,7 @@ SRC = ft_printf.c \
 
 OBJS = ${SRC:.c=.o}
 
-CC = gcc
+CC = cc
 
 CFLAGS = -Wall -Wextra -Werror
 
